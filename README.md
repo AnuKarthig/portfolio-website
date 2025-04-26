@@ -1,2 +1,3 @@
 # portfolio-website
-Assessment
+Assessment for Github code
+Assessment for about me
